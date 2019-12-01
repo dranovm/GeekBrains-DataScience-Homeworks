@@ -1,2 +1,2 @@
 # GitHub-Repository
- Локальный репозитрий по курсу GeekBrains Библиотеки Python для DataScience
+ Репозитрий Максима Дранова для домашних заданий по курсу GeekBrains Библиотеки Python для DataScience
